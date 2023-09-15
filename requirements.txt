@@ -1,0 +1,8 @@
+# Module List
+
+azure-functions
+html2text == 2020.1.16
+fastapi == 0.95.* # Skill endpoints
+aiohttp == 3.8.4 # Async http client endpoints
+azure-servicebus == 7.10.0
+azure-storage-blob == 12.16.0
